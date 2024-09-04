@@ -28,4 +28,4 @@ Feel free to check out my repositories and drop me a message if you want to coll
 
 Happy coding! ✨
 
-[![Awesome](https://img.shields.io/badge/Ready%20for%20Collaboration-brightgreen)](mailto:your-email@example.com)
+[![Awesome](https://img.shields.io/badge/Ready%20for%20Collaboration-brightgreen)](mailto:mwildanhidayat5@gmail.com)
