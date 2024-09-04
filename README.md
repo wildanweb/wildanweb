@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm **@wildanweb** – a newbie who loves to code,
 
 ## 💬 Let's Connect
 
-- **[Instagram](https://www.instagram/wildanhdyt505)**
+- **[Instagram](https://www.instagram.com/wildanhdyt505/)**
 - **[Personal Website](https://wildanweb.github.io)**
 
 Feel free to check out my repositories and drop me a message if you want to collaborate or just chat about tech! 🚀
