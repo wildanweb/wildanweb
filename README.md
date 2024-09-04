@@ -1,16 +1,16 @@
 # Hey There! 👋
 
-Welcome to my GitHub profile! I'm **@wildanweb** – a [Your Role] who loves to code, build cool projects, and learn new things. Here’s a little bit about me:
+Welcome to my GitHub profile! I'm **@wildanweb** – a newbie who loves to code, build cool projects, and learn new things. Here’s a little bit about me:
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, etc.
+- **Languages:** JavaScript, Html, Css.
 - **Frameworks/Libraries:** React, Node.js, Django, etc.
-- **Tools:** Git, Docker, VSCode, etc.
+- **Tools:** TrebEdit, QuickEdit, VSCode, etc.
 
-## 🚀 Projects I'm Working On
+## 🚀 My Public Project
 
-- **[Awesome Coding Project](https://github.com/your-username/awesome-coding-project)** – A project where I [deskripsi proyek].
+- **[Awesome Coding Project](https://github.com/wildanweb)** – A project where I [deskripsi proyek].
 - **[Another Cool Project](https://github.com/your-username/another-cool-project)** – Exploring [deskripsi proyek].
 
 ## 📈 GitHub Stats
