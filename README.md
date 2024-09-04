@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **@wildanweb** – a newbie who loves to code,
 ## 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, Html, Css.
-- **Frameworks/Libraries:** React, Node.js, Django, etc.
+- **Frameworks/Libraries:** Node.js.
 - **Tools:** TrebEdit, QuickEdit, VSCode, etc.
 
 ## 🚀 My Public Project
