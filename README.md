@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm **@wildanweb** – a newbie who loves to code,
 ## 🚀 My Public Project
 
 - **[Awesome Coding Project](https://github.com/wildanweb/wildanweb.github.io)** – A project where I [deskripsi proyek].
-- **[Another Cool Project](https://github.com/your-username/another-cool-project)** – Exploring [deskripsi proyek].
 
 ## 📈 GitHub Stats
 
